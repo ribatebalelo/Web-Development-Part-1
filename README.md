@@ -1,11 +1,11 @@
 
 # Healthcare+ Appointment Booking Website
 
-## 📌 Overview
+##Overview
 Healthcare+ is a web-based platform designed to make it easier for patients to connect with doctors.  
 The system allows patients to book appointments online 24/7, view doctor profiles, and receive automated notifications — while helping healthcare staff reduce administrative workload.
 
-## 🚀 Features
+## Features
 - **Patient & Doctor Accounts** – secure login with encrypted data.
 - **Doctor Profiles** – full details including qualifications, specialty, and availability.
 - **Real-Time Appointment Booking** – patients can instantly schedule appointments via a live calendar.
@@ -13,25 +13,24 @@ The system allows patients to book appointments online 24/7, view doctor profile
 - **Admin Panel** – manage schedules, monitor appointments, and adjust doctor availability.
 - **Appointment History** – patients can track past and upcoming consultations.
 
-## 🎨 Design
+##Design
 - **Color Scheme**: Blue (trust), Green (health), White/Grey (clean, modern).
 - **Typography**: Roboto (headings) + Open Sans (body).
 - **Responsive Layout**: Mobile-first grid system for all devices.
 - **Accessibility**: WCAG 2.1 standards with alt-text and high-contrast design.
 
-## ⚙️ Tech Stack
+##Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript  
 - **Hosting**: Secure hosting with SSL certificate  
 - **Authentication**: Role-based access + multi-factor authentication  
 
-## 📅 Project Goals
+## Project Goals
 - Improve patient convenience with 24/7 booking.
 - Enhance transparency with detailed doctor profiles.
 - Reduce call volume and waiting time in clinics.
 - Improve staff efficiency with digital scheduling tools.
 
-
-
+Reference List
 Freepik (no date) A physician [Image], Freepik. Available at: https://www.freepik.com/free-photosvectors/a-physician (Accessed: 18 August 2025)
 Healthline (2020) Portrait of a Black doctor (Getty Images) [Image], Healthline, 30 September.
 Available at: https://www.healthline.com/health/we-need-more-black-doctors-orgs-that-help
