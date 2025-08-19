@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HealthCare+ | Book Appointment</title>
+  <link rel="icon" href="Images\logo.jpg" type="image/x-icon">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <img src="Images\logo.jpg" alt="logo" height ="100px " width="100px">
+      <div class="brand">HealthCare+</div>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="doctors.html">Doctors</a>
+        <a href="services.html">Services</a>
+        <a href="about.html">About Us</a>
+        <a href="book.html" class="active">Book</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>Book an Appointment</h1>
+
+    <div class="card">
+      <label>Choose Doctor
+        <select id="selectDoctor">
+          <option value="">-- Select a Doctor --</option>
+          <option value="dr_smith">Dr. Thabo Maseko (Primary Care Physician)</option>
+          <option value="dr_lee">Dr. Nokuthula Dlamini(Pediatrician)</option>
+          <option value="dr_patel">Dr. Sipho Nkosi(Cardiologist)</option>
+          <option value="dr_garcia">Dr. Lerato Molefe(Neurologist)</option>
+          <option value="dr_garcia">Dr. Themba Khumalo(Orthopedic Surgeon)</option>
+          <option value="dr_garcia">Dr. Zanele Mthembu(Dermatologist)</option>
+          <option value="dr_garcia">Dr. Kgosi Ramaphosa(Internal Medicine)</option>
+          <option value="dr_garcia">Dr. Amahle Zulu(Gynecologist)</option>
+        </select>
+      </label>
+      
+      <label>Select Date
+        <input type="date" id="inputDate" />
+      </label>
+      <div id="slots" class="slots"></div>
+      <button id="btnConfirm" class="btn btn-primary">Confirm Appointment</button>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>HealthCare+</h3>
+          <p>Providing exceptional healthcare services with compassion, innovation, and excellence since 2010.</p>
+          <div class="social-links">
+            <a href="#" aria-label="Facebook">📘</a>
+            <a href="#" aria-label="Twitter">🐦</a>
+            <a href="#" aria-label="Instagram">📷</a>
+            <a href="#" aria-label="LinkedIn">💼</a>
+          </div>
+        </div>
+        
+        <div class="footer-section">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="doctors.html">Find a Doctor</a></li>
+            <li><a href="services.html">Our Services</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="book.html">Book Appointment</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h4>Services</h4>
+          <ul>
+            <li>Primary Care</li>
+            <li>Pediatrics</li>
+            <li>Cardiology</li>
+            <li>Neurology</li>
+            <li>Orthopedics</li>
+            <li>Dermatology</li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h4>Contact Info</h4>
+          <p>📍 Hope Street, Nelspruit, Mpumalanga</p>
+          <p>📞 +27 13 741 0000</p>
+          <p>✉️ info@healthcareplus.co.za</p>
+          <p>🕒 Mon-Fri: 8AM-6PM, Sat: 9AM-2PM</p>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>© 2025 HealthCare+. All rights reserved.</p>
+       
+      </div>
+    </div>
+  </footer>
+</body>
+</html> 
