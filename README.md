@@ -42,3 +42,10 @@ https://www.shutterstock.com/search/black-doctor-portrait (Accessed: 18 August 2
 StatNews (2022) Black doctors forced out of training programs at far higher rates than white
 residents [Image], StatNews, 20 June. Available at: https://www.statnews.com/2022/06/20/blackdoctors-forced-out-of-training-programs-at-far-higher-rates-than-white-residents (Accessed: 18
 August 2025)
+MDN Web Docs, 2025. HTML: HyperText Markup Language. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn/HTML[Accessed 19 August 2025].
+MDN Web Docs, 2025. JavaScript Basics. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn/JavaScript[Accessed 19 August 2025].
+W3Schools, 2025. Responsive Web Design. [online] Available at: https://www.w3schools.com/css/css_rwd_intro.asp[Accessed 19 August 2025].
+Material Design, 2025. Color and Typography Guidelines. [online] Available at: https://material.io/design/[Accessed 19 August 2025].
+FullCalendar, 2025. JavaScript Calendar and Scheduling Library. [online] Available at: https://fullcalendar.io/docs[Accessed 19 August 2025].
+Nodemailer, 2025. Send Emails with Node.js. [online] Available at: https://nodemailer.com/about/[Accessed 19 August 2025].
+Twilio, 2025. SMS API Documentation. [online] Available at: https://www.twilio.com/docs/sms[Accessed 19 August 2025].
